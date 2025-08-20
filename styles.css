@@ -1,0 +1,36 @@
+    .h1D {
+  text-align: center;
+  border: 2px dotted blue;
+  background-color: aliceblue;
+  width: 250px;
+  padding-top: 10px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+}
+    .text {
+        text-align: justify;
+        font-style: italic;
+        border: 3px solid black;
+        background-color: hsl(0, 53%, 29%);
+        width: 500px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    }
+
+    span {
+        font-style: italic;
+        font-weight: bold;
+        color:rgb(0, 0, 255)
+    
+    }
+
+
+body {
+  background-image: url("https://static.wikia.nocookie.net/makeship/images/1/1f/Chance_plushie.png/revision/latest?cb=20250410083617");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
